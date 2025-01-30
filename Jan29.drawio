@@ -122,13 +122,13 @@
         <mxCell id="Z49ppwHTfxzCZfYrfQzG-13" value="Area of Expertise" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z49ppwHTfxzCZfYrfQzG-10">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z49ppwHTfxzCZfYrfQzG-14" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="1" source="Z49ppwHTfxzCZfYrfQzG-9" target="Z49ppwHTfxzCZfYrfQzG-6">
+        <mxCell id="Z49ppwHTfxzCZfYrfQzG-14" value="" style="endArrow=ERoneToMany;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERoneToMany;startFill=0;endFill=0;" edge="1" parent="1" source="Z49ppwHTfxzCZfYrfQzG-9" target="Z49ppwHTfxzCZfYrfQzG-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="220" as="sourcePoint" />
             <mxPoint x="240" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z49ppwHTfxzCZfYrfQzG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;startArrow=ERmany;" edge="1" parent="1" source="Z49ppwHTfxzCZfYrfQzG-8" target="Z49ppwHTfxzCZfYrfQzG-11">
+        <mxCell id="Z49ppwHTfxzCZfYrfQzG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERoneToMany;startFill=0;startArrow=ERmany;endFill=0;" edge="1" parent="1" source="Z49ppwHTfxzCZfYrfQzG-8" target="Z49ppwHTfxzCZfYrfQzG-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
