@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="760" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="555" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WWJpjJZKoQCfDXmiZr-p-13" value="&lt;b&gt;AUTHOR&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="110" width="140" height="120" as="geometry" />
+          <mxGeometry x="700" y="80" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WWJpjJZKoQCfDXmiZr-p-14" value="&lt;b&gt;Author_Number (ID)&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WWJpjJZKoQCfDXmiZr-p-13">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -46,7 +46,7 @@
         <mxCell id="WWJpjJZKoQCfDXmiZr-p-16" value="Date of Birth (DOB)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WWJpjJZKoQCfDXmiZr-p-13">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WWJpjJZKoQCfDXmiZr-p-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=ERoneToMany;startFill=0;endFill=0;entryX=0.001;entryY=0.131;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=ERzeroToMany;" edge="1" parent="1" source="WWJpjJZKoQCfDXmiZr-p-6" target="WWJpjJZKoQCfDXmiZr-p-13">
+        <mxCell id="WWJpjJZKoQCfDXmiZr-p-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.002;exitY=0.119;exitDx=0;exitDy=0;endArrow=ERoneToMany;startFill=0;endFill=0;entryX=-0.005;entryY=0.146;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=ERmandOne;exitPerimeter=0;" edge="1" parent="1" source="WWJpjJZKoQCfDXmiZr-p-5" target="WWJpjJZKoQCfDXmiZr-p-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="185" as="targetPoint" />
           </mxGeometry>
@@ -54,11 +54,11 @@
         <mxCell id="WWJpjJZKoQCfDXmiZr-p-25" value="Mandatory One to Mandatory&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Many&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WWJpjJZKoQCfDXmiZr-p-30" value="Optional&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Many to Mandatory Many&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="80" width="60" height="30" as="geometry" />
+        <mxCell id="WWJpjJZKoQCfDXmiZr-p-30" value="Mandatory&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Many to Mandatory Many&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WWJpjJZKoQCfDXmiZr-p-33" value="&lt;b&gt;ROYALTY&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="160" width="140" height="120" as="geometry" />
+          <mxGeometry x="500" y="80" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WWJpjJZKoQCfDXmiZr-p-35" value="% of Royalty" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WWJpjJZKoQCfDXmiZr-p-33">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -68,6 +68,15 @@
         </mxCell>
         <mxCell id="WWJpjJZKoQCfDXmiZr-p-37" value="Author Placement" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WWJpjJZKoQCfDXmiZr-p-33">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WWJpjJZKoQCfDXmiZr-p-39" value="Mandatory&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Many to Mandatory Many&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WWJpjJZKoQCfDXmiZr-p-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERoneToMany;startFill=0;endFill=0;startArrow=ERmandOne;" edge="1" parent="1" source="WWJpjJZKoQCfDXmiZr-p-33" target="WWJpjJZKoQCfDXmiZr-p-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="100" as="sourcePoint" />
+            <mxPoint x="699" y="100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
