@@ -260,7 +260,7 @@
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iKkhUcW4vwmSD2mhg6vQ-6" value="TENTANT" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="140" height="120" as="geometry" />
+          <mxGeometry x="450" y="40" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iKkhUcW4vwmSD2mhg6vQ-7" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKkhUcW4vwmSD2mhg6vQ-6">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -272,7 +272,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iKkhUcW4vwmSD2mhg6vQ-10" value="OWNER" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="140" height="120" as="geometry" />
+          <mxGeometry x="250" y="40" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iKkhUcW4vwmSD2mhg6vQ-11" value="&lt;b&gt;companyID (ID)&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKkhUcW4vwmSD2mhg6vQ-10">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
