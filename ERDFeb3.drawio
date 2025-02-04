@@ -173,7 +173,7 @@
             <mxPoint x="560" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A4bb7EXqORVPZH8UmurU-28" value="" style="endArrow=ERoneToMany;html=1;rounded=0;endFill=0;" edge="1" parent="1" source="A4bb7EXqORVPZH8UmurU-2" target="A4bb7EXqORVPZH8UmurU-19">
+        <mxCell id="A4bb7EXqORVPZH8UmurU-28" value="" style="endArrow=ERmany;html=1;rounded=0;endFill=0;startArrow=ERmany;startFill=0;" edge="1" parent="1" source="A4bb7EXqORVPZH8UmurU-2" target="A4bb7EXqORVPZH8UmurU-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="350" as="sourcePoint" />
             <mxPoint x="560" y="300" as="targetPoint" />
