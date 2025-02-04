@@ -240,7 +240,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xFAJS9xU3Acz7lLrx34r" name="Exercise #2 Solution">
-    <mxGraphModel dx="892" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="684" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,15 +283,6 @@
         <mxCell id="iKkhUcW4vwmSD2mhg6vQ-13" value="contact info" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKkhUcW4vwmSD2mhg6vQ-10">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iKkhUcW4vwmSD2mhg6vQ-59" value="" style="endArrow=ERmany;html=1;rounded=0;startArrow=ERmany;startFill=0;endFill=0;" edge="1" parent="1" source="iKkhUcW4vwmSD2mhg6vQ-2" target="iKkhUcW4vwmSD2mhg6vQ-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="240" as="sourcePoint" />
-            <mxPoint x="360" y="190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="550" y="115" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="X_sh4RZz3sln26l9RL9G-2" value="LEASE" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="140" height="120" as="geometry" />
         </mxCell>
@@ -323,7 +314,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sN860UgvInoS0EbeveAK-1" value="CLERK" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="420" width="140" height="90" as="geometry" />
+          <mxGeometry x="480" y="420" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sN860UgvInoS0EbeveAK-2" value="&lt;b&gt;clerkID (ID)&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sN860UgvInoS0EbeveAK-1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -331,7 +322,7 @@
         <mxCell id="sN860UgvInoS0EbeveAK-3" value="name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sN860UgvInoS0EbeveAK-1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sN860UgvInoS0EbeveAK-5" value="" style="endArrow=none;html=1;rounded=0;startArrow=ERmany;startFill=0;" edge="1" parent="1" source="sN860UgvInoS0EbeveAK-1" target="X_sh4RZz3sln26l9RL9G-2">
+        <mxCell id="sN860UgvInoS0EbeveAK-5" value="" style="endArrow=none;html=1;rounded=0;startArrow=ERmany;startFill=0;" edge="1" parent="1" source="sN860UgvInoS0EbeveAK-1" target="sN860UgvInoS0EbeveAK-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="380" as="sourcePoint" />
             <mxPoint x="340" y="330" as="targetPoint" />
@@ -339,6 +330,18 @@
         </mxCell>
         <mxCell id="sN860UgvInoS0EbeveAK-6" value="Technically speaking, this relationship between apartment and tenant can be replaced by the relationship between tenants -&amp;gt; leases&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="70" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sN860UgvInoS0EbeveAK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;" edge="1" parent="1" source="sN860UgvInoS0EbeveAK-10" target="X_sh4RZz3sln26l9RL9G-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sN860UgvInoS0EbeveAK-10" value="Payment" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="420" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sN860UgvInoS0EbeveAK-11" value="&lt;b&gt;clerkID (ID)&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sN860UgvInoS0EbeveAK-10">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sN860UgvInoS0EbeveAK-12" value="name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sN860UgvInoS0EbeveAK-10">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
