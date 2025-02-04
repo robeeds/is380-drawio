@@ -289,6 +289,21 @@
             <mxPoint x="360" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="X_sh4RZz3sln26l9RL9G-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="iKkhUcW4vwmSD2mhg6vQ-10" target="iKkhUcW4vwmSD2mhg6vQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="240" as="sourcePoint" />
+            <mxPoint x="360" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X_sh4RZz3sln26l9RL9G-2" value="RENTAL_LEASE" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="320" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sh4RZz3sln26l9RL9G-4" value="name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="X_sh4RZz3sln26l9RL9G-2">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_sh4RZz3sln26l9RL9G-5" value="phone_number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="X_sh4RZz3sln26l9RL9G-2">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
