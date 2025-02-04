@@ -240,7 +240,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xFAJS9xU3Acz7lLrx34r" name="Exercise #2 Solution">
-    <mxGraphModel dx="821" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -338,7 +338,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sN860UgvInoS0EbeveAK-6" value="Technically speaking, this relationship between apartment and tenant can be replaced by the relationship between tenants -&amp;gt; leases&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="40" width="720" height="40" as="geometry" />
+          <mxGeometry x="420" y="70" width="720" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
