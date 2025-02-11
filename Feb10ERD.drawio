@@ -76,7 +76,7 @@
         <mxCell id="-JVhzOyHGudoEa-SjRbQ-67" value="Donates" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="440" y="550" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-JVhzOyHGudoEa-SjRbQ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="-JVhzOyHGudoEa-SjRbQ-68" target="-JVhzOyHGudoEa-SjRbQ-30">
+        <mxCell id="-JVhzOyHGudoEa-SjRbQ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERzeroToMany;endFill=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="1" source="-JVhzOyHGudoEa-SjRbQ-68" target="-JVhzOyHGudoEa-SjRbQ-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-JVhzOyHGudoEa-SjRbQ-68" value="Item" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
