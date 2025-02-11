@@ -148,11 +148,17 @@
         <mxCell id="lEz5nT4TfX7YD9l46hH_-19" value="&lt;div&gt;d&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="485" y="450" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lEz5nT4TfX7YD9l46hH_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;startArrow=ERzeroToMany;startFill=0;" edge="1" parent="1" source="lEz5nT4TfX7YD9l46hH_-20" target="lEz5nT4TfX7YD9l46hH_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lEz5nT4TfX7YD9l46hH_-20" value="REPAIR" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="300" y="522" width="160" height="56" as="geometry" />
+          <mxGeometry x="300" y="522" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="lEz5nT4TfX7YD9l46hH_-21" value="cost" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="lEz5nT4TfX7YD9l46hH_-20">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lEz5nT4TfX7YD9l46hH_-40" value="product" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="lEz5nT4TfX7YD9l46hH_-20">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lEz5nT4TfX7YD9l46hH_-23" value="MAINTENANCE" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="560" y="522" width="160" height="56" as="geometry" />
