@@ -84,7 +84,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mgGNEhbARVzYM9EFW3mI" name="Exercise 2">
-    <mxGraphModel dx="1216" dy="244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1472" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,7 +184,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lEz5nT4TfX7YD9l46hH_-26" value="CUSTOMER" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="800" y="90" width="160" height="146" as="geometry" />
+          <mxGeometry x="830" y="75" width="160" height="146" as="geometry" />
         </mxCell>
         <mxCell id="lEz5nT4TfX7YD9l46hH_-27" value="&lt;b&gt;CUSTOMER_ID (ID)&lt;/b&gt;" style="text;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="lEz5nT4TfX7YD9l46hH_-26" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -211,7 +211,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z7rUdQzBWtsxiBi2H_C4-10" value="&lt;b&gt;PURCHASE&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="88" width="140" height="90" as="geometry" />
+          <mxGeometry x="550" y="103" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="z7rUdQzBWtsxiBi2H_C4-11" value="Date of Purchase" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="z7rUdQzBWtsxiBi2H_C4-10">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -220,7 +220,7 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z7rUdQzBWtsxiBi2H_C4-17" value="&lt;b&gt;BILLING&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="320" width="140" height="120" as="geometry" />
+          <mxGeometry x="840" y="318" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="z7rUdQzBWtsxiBi2H_C4-18" value="Date of Service&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="z7rUdQzBWtsxiBi2H_C4-17">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
