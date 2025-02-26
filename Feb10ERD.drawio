@@ -241,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cynAYKqAN7Yj23-U1i1u" name="Exercise 2 Relational Model">
-    <mxGraphModel dx="1856" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1946" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -316,7 +316,7 @@
         <mxCell id="ci0lhT75tvQPi1SNWz4Z-23" value="&lt;div&gt;o&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-335" y="729" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ci0lhT75tvQPi1SNWz4Z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERzeroToMany;endFill=0;startArrow=ERzeroToMany;startFill=0;" edge="1" parent="1" source="ci0lhT75tvQPi1SNWz4Z-25" target="ci0lhT75tvQPi1SNWz4Z-10">
+        <mxCell id="ci0lhT75tvQPi1SNWz4Z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERoneToMany;endFill=0;startArrow=ERzeroToMany;startFill=0;" edge="1" parent="1" source="ci0lhT75tvQPi1SNWz4Z-25" target="ci0lhT75tvQPi1SNWz4Z-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ci0lhT75tvQPi1SNWz4Z-25" value="REPAIR" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
