@@ -623,7 +623,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5cXsLTRS4Pw2vvekn58b" name="Exercise #2">
-    <mxGraphModel dx="2560" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2218" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -956,7 +956,7 @@
           <mxGeometry x="-290" y="308" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kVKuKcVKdObSteaobk3m-40" value="PD1 - STUDENT" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="604.95" y="247" width="180" height="150" as="geometry" />
+          <mxGeometry x="560.0200000000001" y="247" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="kVKuKcVKdObSteaobk3m-41" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="kVKuKcVKdObSteaobk3m-40">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -1011,7 +1011,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kVKuKcVKdObSteaobk3m-68" value="FD - ENROLL" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="604.95" y="87" width="180" height="120" as="geometry" />
+          <mxGeometry x="560.0200000000001" y="87" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kVKuKcVKdObSteaobk3m-69" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="kVKuKcVKdObSteaobk3m-68">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -1053,7 +1053,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kVKuKcVKdObSteaobk3m-84" value="PD2 - COURSE" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="844.95" y="87" width="180" height="150" as="geometry" />
+          <mxGeometry x="800.0200000000001" y="87" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="kVKuKcVKdObSteaobk3m-88" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=1;left=0;right=0;bottom=1;" vertex="1" parent="kVKuKcVKdObSteaobk3m-84">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -1114,7 +1114,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kVKuKcVKdObSteaobk3m-114" value="&lt;b&gt;&lt;font style=&quot;font-size: 37px;&quot;&gt;2NF&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="639.95" width="90" height="60" as="geometry" />
+          <mxGeometry x="595.0200000000001" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kVKuKcVKdObSteaobk3m-116" value="&lt;b&gt;&lt;font style=&quot;font-size: 37px;&quot;&gt;1NF&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="224.95000000000005" width="90" height="60" as="geometry" />
