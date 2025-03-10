@@ -1303,7 +1303,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2pHY87ozlXzOo2XTjcpm" name="Exercise #3">
-    <mxGraphModel dx="1558" dy="1572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1742" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1701,12 +1701,12 @@
         <mxCell id="Vm3El8v0gl7BLxfJy9CL-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="Vm3El8v0gl7BLxfJy9CL-1">
           <mxGeometry y="270" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vm3El8v0gl7BLxfJy9CL-27" value="&lt;b&gt;&lt;u&gt;PK&lt;/u&gt;&lt;/b&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Vm3El8v0gl7BLxfJy9CL-26">
+        <mxCell id="Vm3El8v0gl7BLxfJy9CL-27" value="&lt;b&gt;&lt;u&gt;PK&lt;/u&gt;&lt;/b&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=1;left=0;bottom=1;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Vm3El8v0gl7BLxfJy9CL-26">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vm3El8v0gl7BLxfJy9CL-28" value="&lt;b&gt;&lt;u&gt;Item Number&lt;/u&gt;&lt;/b&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Vm3El8v0gl7BLxfJy9CL-26">
+        <mxCell id="Vm3El8v0gl7BLxfJy9CL-28" value="&lt;b&gt;&lt;u&gt;Item Number&lt;/u&gt;&lt;/b&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=1;left=0;bottom=1;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Vm3El8v0gl7BLxfJy9CL-26">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
